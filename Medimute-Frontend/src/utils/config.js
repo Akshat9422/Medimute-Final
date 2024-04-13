@@ -1,8 +1,13 @@
 const predictedClassNames = [
-    "HELLO SUYASH",
-    "OPEN",
-    "CLOSE",
-    "SUYASH GAY",
+    "No symptoms detected!!",
+    "I am feeling like vomiting.",
+    "I had an injury.",
+    "I am having a headache.",
+    "I am having loose motions",
+    "I have high temperature of my body.",
+    "I am having cough and my throat is aching.",
+    "Not a registered gesture!!.",
+    "Not a registered gesture!!."
 ]
 
 export function getPredictedDisease(predictedClass) {
